@@ -1,5 +1,11 @@
 # Kelompok-Expresi-Matematika
 
+Anggota Kelompok:
+1. Efida Rahma (2057051008)
+2. Fitriah Hardianti (2057051001
+3. Yoan Sephira (2057051013)
+
+
 //Nomor 1 Parsing String Infix
 //Fitriah Hardianti (2057051001)
 

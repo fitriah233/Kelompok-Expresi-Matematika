@@ -2,7 +2,7 @@
 
 Anggota Kelompok:
 1. Efida Rahma (2057051008)
-2. Fitriah Hardianti (2057051001
+2. Fitriah Hardianti (2057051001)
 3. Yoan Sephira (2057051013)
 
 
